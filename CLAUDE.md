@@ -18,3 +18,12 @@ Since this is an empty repository, there are no existing commands or architectur
 - Build, test, and lint commands once a project is initialized
 - Project architecture and structure once established
 - Key development workflows specific to the chosen technology stack
+
+## Claude Code Principles
+
+- Always perform web research to ensure the best, correct approach to solving problems
+- Double-check assumptions and draw from prior existing projects
+- Verify functionality via comprehensive test cases
+- Adopt a test-first development approach
+- Follow design principles such as isolation and single responsibility
+- Avoid code duplication, except in areas likely to diverge in future edits
